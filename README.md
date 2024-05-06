@@ -1,4 +1,4 @@
-Dice Roll Showdown
+Dice Roll Showdown-
 Dice Roll Showdown is a fun and interactive dice game where players compete to achieve the highest score by rolling dice. The game supports 2 to 4 players and has a maximum score limit of 50 points.
 
 How to Play-
